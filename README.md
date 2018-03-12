@@ -1,2 +1,3 @@
 # bash-and-shell-cheat-sheet
-Personal cheat sheet with baisc rules I follow in bash
+A personal wiki with baisc rules and reminders I follow/use in bash
+
